@@ -32,3 +32,26 @@ A professional invoice automation script written in Python 🐍 that reads invoi
 
 ```bash
 pip install pandas reportlab openpyxl
+
+## 🛠️ How to Use
+
+1. Clone or download the repo
+2. Add your `invoices.xlsx` file with invoice data
+3. Customize your `logo.png` and company details in the script
+4. Run:
+```bash
+python invoice_generator.py
+
+---
+
+## 📌 Future Features
+
+- Email invoices directly to clients
+- Add payment QR codes
+- Generate summary reports
+- Add a GUI (Graphical User Interface)
+
+git add README.md
+git commit -m "Updated README with usage and screenshot"
+git push
+
