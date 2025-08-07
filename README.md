@@ -51,7 +51,3 @@ python invoice_generator.py
 - Generate summary reports
 - Add a GUI (Graphical User Interface)
 
-git add README.md
-git commit -m "Updated README with usage and screenshot"
-git push
-
